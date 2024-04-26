@@ -1,0 +1,19 @@
+#number2 {
+    color: #2b2bff;
+    font-size: 36px;
+}
+
+#green{
+    background-color: rgb(77, 255, 77);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    background-color: rgb(255, 198, 207);
+    font-family: verdana," DejaVu Sans", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
